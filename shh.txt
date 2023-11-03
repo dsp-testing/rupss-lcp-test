@@ -1,0 +1,16 @@
+aio_MOfj89YC3mf5voHviMNxRbGo6hJS
+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
+
+aio_FdTN66X58CiPxa7ASBbPFtk7zsuk
+
+oy2ebpb5ptn7fbosmrjqnwg6obgdkk7e5ery3peuweo7xy
+
+oy2eqoot5v2kldtwq3bargpmb3gu7zdejblrtovu3v6jea
+
+
+oy2cf6e5kfcmstklicrqnklodiss56au7l5evmfjjfavda
+oy2afidykrn4kqn3rmlavz77ey3r2pzebif55dfl4nonqq
+
+mongodb://localhost:12345/
+
+postgres://xyz_user:elfodisekdpe@ddleodpske-b.dwwpql-postgres.lwfekewfkjf.com/kfkf
